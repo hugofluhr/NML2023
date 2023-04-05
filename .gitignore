@@ -1,0 +1,13 @@
+**/.DS_Store
+cora.tgz
+data_1b.pickle
+football.gml
+cora/cora.cites
+cora/cora.content
+cora/README
+tutorials/cora/cora.cites
+tutorials/cora/cora.content
+tutorials/cora/README
+tutorials/Tutorial 1 Part 1-20230221/data/*
+tutorials/Tutorial 1 Part 2-20230228/iris.gexf
+tutorials/Tutorial 1 Part 2-20230228/data/*
